@@ -72,18 +72,17 @@ Follow these steps to run Wanderlust on your local machine:
 
 3. **Create a .env file in the root directory with the following content:**
    
-  ATLASDB_URL=your_mongodb_atlas_url
-  SECRET=your_cookie_secret
-  CLOUDINARY_CLOUD_NAME=your_cloud_name
-  CLOUDINARY_KEY=your_api_key
-  CLOUDINARY_SECRET=your_api_secret
-  NODE_ENV=development
+  - ATLASDB_URL=your_mongodb_atlas_url
+  - SECRET=your_cookie_secret
+  - CLOUDINARY_CLOUD_NAME=your_cloud_name
+  - CLOUDINARY_KEY=your_api_key
+  - CLOUDINARY_SECRET=your_api_secret
+  - NODE_ENV=development
 
-4. (Required) Initialize the database with data
+4. **(Required) Initialize the database with data**
 
 5. **Start the server**
-   
-   npm start
+   - npm start
    
 6. **Open your browser and visit**
    http://localhost:5000
@@ -95,8 +94,8 @@ Follow these steps to run Wanderlust on your local machine:
 
 ---
 By **Sneha**
-GitHub: https://github.com/snehabhandari-07
-LinkedIn: www.linkedin.com/in/sneha-bhandari-478953250
+- GitHub: https://github.com/snehabhandari-07
+- LinkedIn: www.linkedin.com/in/sneha-bhandari-478953250
 
 
 
