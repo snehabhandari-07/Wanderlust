@@ -63,8 +63,8 @@ Follow these steps to run Wanderlust on your local machine:
 
 1. **Clone the repository**
    
-   git clone https://github.com/snehabhandari-07/Wanderlust
-   cd wanderlust
+   - git clone https://github.com/snehabhandari-07/Wanderlust
+   - cd wanderlust
 
 2. **Install dependencies**
 
@@ -72,12 +72,12 @@ Follow these steps to run Wanderlust on your local machine:
 
 3. **Create a .env file in the root directory with the following content:**
    
-  - ATLASDB_URL=your_mongodb_atlas_url
-  - SECRET=your_cookie_secret
-  - CLOUDINARY_CLOUD_NAME=your_cloud_name
-  - CLOUDINARY_KEY=your_api_key
-  - CLOUDINARY_SECRET=your_api_secret
-  - NODE_ENV=development
+    - ATLASDB_URL=your_mongodb_atlas_url
+    - SECRET=your_cookie_secret
+    - CLOUDINARY_CLOUD_NAME=your_cloud_name
+    - CLOUDINARY_KEY=your_api_key
+    - CLOUDINARY_SECRET=your_api_secret
+    - NODE_ENV=development
 
 4. **(Required) Initialize the database with data**
 
