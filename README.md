@@ -30,11 +30,13 @@ Live Demo: [https://wanderlust-mern-project-ueft.onrender.com](https://wanderlus
 - Node.js
 - Express.js
 - MongoDB with Mongoose
+- MongoDB Atlas (cloud-hosted MongoDB database)
 - Passport.js for authentication
 - Multer for handling file uploads
 - Cloudinary for storing images
 - Express-session and Connect-mongo
 - dotenv for environment configuration
+  
 
 ---
 
